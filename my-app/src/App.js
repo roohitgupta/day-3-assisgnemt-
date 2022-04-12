@@ -9,8 +9,6 @@ function App() {
 
   const [counter, setCounter] = useState(Value)
   
-  
-  
 
   const HandleChange = (Value)=>{
     //condition
